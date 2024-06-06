@@ -1,0 +1,42 @@
+body,h1,h2,h3,ul,p{
+    margin: 0;
+    padding: 0;
+}
+.salom{
+    background-color: rgb(197, 99, 184);
+     border: 3px solid rgb(8, 8, 8);
+}
+.salom h1{
+    color: rgb(8, 8, 8);
+    font-family: sans-serif;
+    padding: 15px 0;
+    display: inline-block;
+    
+}
+.mmm{
+    color: rgb(235, 37, 37);
+}
+
+.cantinetir{
+    width: 70%;
+    margin: auto;
+}
+.nnn{
+    float: right;
+}
+.nnn li{
+    display: inline;
+}
+.nnn li a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    padding: 25px 15px;
+    display: inline-block;
+
+
+}
+
+.salom  a:hover{
+    color: rgb(252, 10, 10);
+}
