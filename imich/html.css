@@ -128,12 +128,43 @@ float: right;
      #footer{
         
 
-    padding: 50px 0; 
+    padding: 50px 0;
     text-align: center;
     background-color: coral;
-    margin-top: 200px;
+    margin-top:  250px;
+}
+
+
+.cantainer{
+    width: 70%;
+    margin: auto;
 }
     
   
+
+
+.main-content{
+    width: 50%;
+    float: left;
+}
     
+
+
+.www{
+    width: 40%;
+    margin-left: auto;
+    
+}
+
+ #About-us{
+    margin: 40px 0;
+    
+ }
   
+
+
+ .ppp{
+    background-color: #030303;
+    color: #ececec;
+    padding: 15px;
+ }
