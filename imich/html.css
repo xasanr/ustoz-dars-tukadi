@@ -103,6 +103,7 @@ float: right;
     color: #000;
     margin-left: 8px;
 
+
   }
 
 
@@ -120,26 +121,24 @@ float: right;
         font-family: sans-serif;
     }
 
+
+
     .box img{
         max-width: 100%;
         width: 150px;
 
     }
-     #footer{
-        
+    .clr{
+        clear: both;
+    }
+        #BBB{
+            padding: 40px 0;
+            text-align: center;
+            background-color: coral;
+            color: aliceblue;
+            margin-top: 30px
 
-    padding: 50px 0;
-    text-align: center;
-    background-color: coral;
-    margin-top:  250px;
-}
-
-
-.cantainer{
-    width: 70%;
-    margin: auto;
-}
-    
+        }
   
 
 
@@ -157,8 +156,8 @@ float: right;
 }
 
  #About-us{
-    margin: 40px 0;
-    
+    font-family: sans-serif;
+    margin: 30px;
  }
   
 
@@ -168,3 +167,28 @@ float: right;
     color: #ececec;
     padding: 15px;
  }
+
+ .cantinetir{
+    width: 70px;
+    margin-top: auto;
+ }
+
+
+ .bot{
+    padding: 30px;
+      margin: 15px 0;
+
+
+ }
+  .bot{
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    margin: 45px 0;
+  }
+
+
+  
+
+
+ 
+   
